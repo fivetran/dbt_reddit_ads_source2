@@ -1,3 +1,8 @@
+# dbt_reddit_ads_source version.version
+
+## Documentation
+- Corrected references to connectors and connections in the README. ([#9](https://github.com/fivetran/dbt_reddit_ads_source/pull/9))
+
 # dbt_reddit_ads_source v0.3.0
 [PR #7](https://github.com/fivetran/dbt_reddit_ads_source/pull/7) includes the following **BREAKING CHANGE** updates:
 
